@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Capitulo 10 Seminario de Investigación</title>
+
+    Fuente bonita de gogle
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #6a0dad; /* Fondo morado */
+            color: white; /* Letras blancas */
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            font-size: 50px;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 25px;
+            background-color: white;
+            color: #6a0dad;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+
+        a:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Bienvenidos a mi página</h1>
+    
+    <p>
+        Hola, esta es mi presentación para clase. Espero que les guste 😊
+    </p>
+
+<h2>Presentación</h2>
+
+<iframe 
+    src="https://canva.link/bblxvx7oxd0v5ou"
+    width="800" 
+    height="500"
+    allowfullscreen>
+</iframe>
+    <a href="https://www.crazygames.com/">Ir al juego 🎮</a>
+</body>
+</html>
